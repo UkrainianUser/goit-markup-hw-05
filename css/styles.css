@@ -57,6 +57,7 @@ img {
 .link {
 	text-decoration: none;
 	color: inherit;
+	transition: color 250ms var(--timing-function);
 }
 .link:hover,
 .link:focus {
